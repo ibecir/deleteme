@@ -1,3 +1,4 @@
 Satara Eldar OOP
 
-Becir Isakovic OOP isto
+--Becir Isakovic OOP isto
+Sarah je dobra programerka
